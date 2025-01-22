@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.adara.adara_app_hub",
+    "sha256_cert_fingerprints":
+    ["11:6E:3F:A2:EF:EF:4D:8D:C9:8B:D4:31:8C:9B:FC:01:C3:84:7F:6B:1B:84:7A:7C:A3:04:EF:B5:6B:CF:C1:E1"]
+  }
+}]
